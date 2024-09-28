@@ -8,7 +8,7 @@ body {
 .grid-item{
     width:20px;
     height:20px;
-    background-color: aqua;
+    background-color: white;
     outline: 1px solid black
 }
 #grid-container{
